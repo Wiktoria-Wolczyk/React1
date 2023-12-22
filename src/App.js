@@ -2,6 +2,7 @@ import "./App.css";
 import w3logo from "./images/w3.png";
 import ButterflyPhoto from "./images/ButterflyFamilyTree.webp";
 import { MyUser } from "./MyUser/MyUser";
+import { SocialLogin } from "./SocialLogin/SocialLogin";
 
 function App() {
   let text;
@@ -77,6 +78,8 @@ function App() {
             <hr />
           </div>
           <div id="forgot-password">Forgot password?</div>
+          <SocialLogin />
+
           {/* <MyUser user={user} /> */}
           {/* <SocialLogin /> */}
 

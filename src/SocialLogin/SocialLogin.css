@@ -1,0 +1,12 @@
+.google-button {
+  width: 300px;
+  height: 40px;
+  background-color: rgb(221, 146, 244);
+  font-size: 20px;
+}
+.facebook-button {
+  width: 300px;
+  height: 40px;
+  background-color: rgb(146, 197, 244);
+  font-size: 20px;
+}
